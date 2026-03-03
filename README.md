@@ -86,23 +86,6 @@ const hieu = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngvhieu&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=ngvhieu&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngvhieu&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 ## Currently
 
 - Exploring **Rust** — systems programming, memory ownership, and zero-cost abstractions
