@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Hieu%20Nguyen&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Engineer%20%C2%B7%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=200&section=header&text=Hieu%20Nguyen&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Engineer%20%C2%B7%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+for+the+web%2C+cloud+%26+beyond;Clean+code.+Ship+fast.+Break+nothing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+for+the+web%2C+cloud+%26+beyond;Clean+code.+Ship+fast.+Break+nothing.)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ngvhieu&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ngvhieu)
-[![GitHub followers](https://img.shields.io/github/followers/ngvhieu?style=for-the-badge&color=6366f1&labelColor=1a1a2e)](https://github.com/ngvhieu?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ngvhieu?style=for-the-badge&color=6366f1&labelColor=1a1a2e)](https://github.com/ngvhieu)
+[![Profile Views](https://komarev.com/ghpvc/?username=ngvhieu&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ngvhieu)
+[![GitHub followers](https://img.shields.io/github/followers/ngvhieu?style=for-the-badge&color=ff6b35&labelColor=1a1a1a)](https://github.com/ngvhieu?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ngvhieu?style=for-the-badge&color=ffd700&labelColor=1a1a1a)](https://github.com/ngvhieu)
 
 </div>
 
@@ -51,10 +51,10 @@ const hieu = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white)
 
 **Frontend**
 
@@ -66,7 +66,7 @@ const hieu = {
 
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-fbf0df?style=for-the-badge&logo=bun&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
@@ -75,7 +75,7 @@ const hieu = {
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-44A1C0?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools**
 
@@ -90,14 +90,14 @@ const hieu = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngvhieu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ngvhieu&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngvhieu&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=ngvhieu&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngvhieu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngvhieu&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -124,6 +124,6 @@ const hieu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=100&section=footer" width="100%" />
 
 </div>
