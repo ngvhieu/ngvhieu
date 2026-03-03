@@ -22,17 +22,19 @@
 
 ## `whoami`
 
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 ```ts
 const hieu = {
   name: "Nguyen Van Hieu",
   alias: "ngvhieu",
   location: "Vietnam 🇻🇳",
   role: "Full-stack Engineer",
-  currentlyBuilding: "Hiu — a music + photo sharing platform",
   contact: "nvhieu1003@gmail.com",
+  website: "https://hieumoi.online",
 
-  languages: ["TypeScript", "JavaScript", "Python", "Go", "Rust", "C#", "Java", "PHP"],
-  frontend:  ["Next.js", "React", "Tailwind CSS"],
+  languages: ["TypeScript", "JavaScript", "Python", "Go", "Rust", "C#", "Java", "PHP", "Dart"],
+  frontend:  ["Next.js", "React", "Tailwind CSS", "Flutter"],
   backend:   ["Hono", "Node.js", "Bun", ".NET", "Spring Boot"],
   cloud:     ["Cloudflare Workers", "Docker", "PostgreSQL", "SQLite / D1"],
 
@@ -55,12 +57,14 @@ const hieu = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend**
 
@@ -99,6 +103,7 @@ const hieu = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/nvhieu1003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvhieu1003@gmail.com)
+[![Website](https://img.shields.io/badge/hieumoi.online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hieumoi.online)
 [![GitHub](https://img.shields.io/badge/@ngvhieu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngvhieu)
 
 </div>
