@@ -20,32 +20,19 @@
 
 ---
 
-## `whoami`
-
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```ts
-const hieu = {
-  name: "Nguyen Van Hieu",
-  alias: "ngvhieu",
-  location: "Vietnam 🇻🇳",
-  role: "Full-stack Engineer",
-  contact: "nvhieu1003@gmail.com",
-  website: "https://hieumoi.online",
+### Hey, I'm Hieu 👋
 
-  languages: ["TypeScript", "JavaScript", "Python", "Go", "Rust", "C#", "Java", "PHP", "Dart"],
-  frontend:  ["Next.js", "React", "Tailwind CSS", "Flutter"],
-  backend:   ["Hono", "Node.js", "Bun", ".NET", "Spring Boot"],
-  cloud:     ["Cloudflare Workers", "Docker", "PostgreSQL", "SQLite / D1"],
+Full-stack engineer based in Vietnam. I build things for the web — from pixel-perfect UIs to backend systems running at the edge.
 
-  philosophy: "Write it. Ship it. Improve it.",
-  funFact: "I spend more time deleting code than writing it — and that's a flex.",
-};
-```
+- 🔭 &nbsp; Working across the full stack: web, mobile, cloud
+- 🌱 &nbsp; Currently going deep on **Rust** and **distributed systems**
+- ⚡ &nbsp; I delete more code than I write — and I'm proud of it
+- 🌐 &nbsp; Portfolio: [hieumoi.online](https://hieumoi.online)
+- 📫 &nbsp; Reach me: [nvhieu1003@gmail.com](mailto:nvhieu1003@gmail.com)
 
----
-
-## Tech Stack
+<br clear="right" />## Tech Stack
 
 **Languages**
 
